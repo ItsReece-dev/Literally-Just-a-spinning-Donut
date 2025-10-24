@@ -1,2 +1,1 @@
-# Literally Just a spinning Donut
-It spins thats it
+This took way longer then id like to admit but its kinda cool
